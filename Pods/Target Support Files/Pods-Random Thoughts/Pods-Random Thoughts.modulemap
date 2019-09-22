@@ -1,0 +1,6 @@
+framework module Pods_Random_Thoughts {
+  umbrella header "Pods-Random Thoughts-umbrella.h"
+
+  export *
+  module * { export * }
+}
